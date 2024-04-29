@@ -15,8 +15,8 @@ which consists of over 2 million rows and 5 columns, and the 'regions' table whi
 The 'names' table was already clean, the 'regions' table on the other hand had incorrect values. I correctly renamed the regions, and assigned each region
 the correct 'state' related to them.
 
-![Screenshot (83)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/53e56a65-e51a-4f33-bf1a-9d4cca550036)
 ![Screenshot (82)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/af2cec55-26f9-489c-8721-6a9e3f6ab4cc)
+![Screenshot (83)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/53e56a65-e51a-4f33-bf1a-9d4cca550036)
 
 
 ### Baby Name Analysis
@@ -141,11 +141,8 @@ A total of 22,240 names were used throughout the dataset and a total of 98,730,8
  * 1999 - 2008: Jacob (288,138 babies named)
    
  * 2009: Isabella (22,289 babies named)
-   
-![Screenshot (95)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/a4a98039-1073-4738-a586-43acffc573d3)
 ![Screenshot (93)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/0672cf5b-3329-4eee-8d4e-55c45212a870)
-![Screenshot (92)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/78358ca8-9fdb-48f7-9314-b5906b90e05c)
-![Screenshot (91)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/b30601ed-60ce-4aa2-8ed8-dd1bf82631fc)
+![Screenshot (95)](https://github.com/YuYunusa/U.S-Baby-Names-Report-With-MYSQL/assets/160647840/a4a98039-1073-4738-a586-43acffc573d3)
 
 #### - Average percentage of Babies Named yearly by Gender
   * Male:  53.6%
